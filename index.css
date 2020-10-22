@@ -42,9 +42,11 @@
 
 }
 
-
-.uploadModal-2ifh8j {
-color: rgb(211, 9, 9);
+.uploadModal-2ifh8j .inner-3nWsbo {
+  background-color: rgba(81, 77, 92, 0.541);
+  backdrop-filter: blur(5px);
+  border-top-right-radius: 35%;
+  border-top-left-radius: 5%;
 }
 
 .scroller-2UmRce {
@@ -102,8 +104,7 @@ color: rgb(211, 9, 9);
 }
 
 .userPopout-3XzG_A {
-  background-color: rgba(0, 0, 0, 0.377);
-  backdrop-filter: blur(5px);
+  background-color: rgba(0, 0, 0, 0.849)
 }
 
 .drawerSizingWrapper-17Mss4 {
@@ -113,7 +114,7 @@ color: rgb(211, 9, 9);
 
 /* Version Tag In Bottom of Settings */
 div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
-  content: "BLACKOUT! v1.0.0";
+  content: "BLACKOUT! v1.0.1";
   display: block;
 }
 

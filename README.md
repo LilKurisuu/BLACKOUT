@@ -1,6 +1,6 @@
 # BLACKOUT!
 
-## Darker Discord with mods made by the Powercord Community! 💻
+## Darker Discord with CSS Snippets made by the Powercord Community! 💻
 
 
 
