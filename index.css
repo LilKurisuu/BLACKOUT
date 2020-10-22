@@ -2192,3 +2192,8 @@ html.theme-dark .theme-light {
  .button-14-BFJ[aria-label="User Settings"]:hover .contents-18-Yxp {
    animation: rotate 3s infinite;
  }
+
+/* Wider Pinned Messages */
+.messagesPopoutWrap-1MQ1bW{
+  width: 620px;
+}
