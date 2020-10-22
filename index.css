@@ -42,6 +42,11 @@
 
 }
 
+.modalSize-cqUaws.root-1gCeng, .root-1ANs48, .fullscreenOnMobile-1aglG_, .container-14fypd.root-1gCeng > .form-26zE04, .root-1gCeng.fullscreenOnMobile-1bD22y:not(.modal-qgFCbT) {
+  background-color: rgba(81, 77, 92, 0.541) !important;
+  backdrop-filter: blur(5px) !important;
+}
+
 .uploadModal-2ifh8j .inner-3nWsbo {
   background-color: rgba(81, 77, 92, 0.541);
   backdrop-filter: blur(5px);
@@ -114,7 +119,7 @@
 
 /* Version Tag In Bottom of Settings */
 div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
-  content: "BLACKOUT! v1.0.1";
+  content: "BLACKOUT! v1.0.2";
   display: block;
 }
 

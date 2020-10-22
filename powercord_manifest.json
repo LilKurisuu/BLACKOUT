@@ -1,7 +1,7 @@
 {
     "name": "BLACKOUT!",
     "description": "Darker Discord with CSS Snippets made by the Powercord Community! 💻",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Kris",
     "theme": "index.css",
     "license": "MIT"
