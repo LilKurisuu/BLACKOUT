@@ -42,6 +42,15 @@
 
 }
 
+.activity-34iveE {
+  background-color: rgba(77, 77, 77, 0.229);
+  backdrop-filter: blur(1px);
+}
+
+.container-3JTnYm.thin-1ybCld.scrollerBase-289Jih {
+  backdrop-filter: blur(5px);
+}
+
 .modalSize-cqUaws.root-1gCeng, .root-1ANs48, .fullscreenOnMobile-1aglG_, .container-14fypd.root-1gCeng > .form-26zE04, .root-1gCeng.fullscreenOnMobile-1bD22y:not(.modal-qgFCbT) {
   background-color: rgba(81, 77, 92, 0.541) !important;
   backdrop-filter: blur(5px) !important;
@@ -2197,3 +2206,7 @@ html.theme-dark .theme-light {
 .messagesPopoutWrap-1MQ1bW{
   width: 620px;
 }
+
+/* Center profile tabs by Ribzy*/
+.tabBar-2MuP6-{ justify-content: center; }
+.top-28JiJ-:last-child .item-PXvHYJ:last-child { margin-right: 0; }
