@@ -15,8 +15,8 @@
     --interactive-active: rgb(255, 255, 255);
     --interactive-muted: rgb(133, 133, 133);
     --background-primary: linear-gradient(130deg, rgb(44, 44, 44) 7%, rgb(48, 43, 53) 100%);
-    --background-secondary: linear-gradient(50deg, rgb(37, 37, 37) 23%, rgb(81, 74, 85) 100%);
-    --background-tertiary: #242424;
+    --background-secondary: linear-gradient(50deg, rgba(37, 37, 37, 0.856) 23%, rgba(81, 74, 85, 0.863) 100%);
+    --background-tertiary: #272727;
     --background-accent: #7e7e7e;
     --background-floating: linear-gradient(130deg, rgb(49, 48, 48) 45%, rgb(65, 62, 73) 100%);
     --background-modifier-hover: rgb(57, 50, 63);
@@ -45,6 +45,7 @@
 .activity-34iveE {
   background-color: rgba(77, 77, 77, 0.229);
   backdrop-filter: blur(1px);
+  border-radius: 5%;
 }
 
 .container-3JTnYm.thin-1ybCld.scrollerBase-289Jih {
@@ -128,7 +129,7 @@
 
 /* Version Tag In Bottom of Settings */
 div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
-  content: "BLACKOUT! v1.0.2";
+  content: "BLACKOUT! v1.0.3";
   display: block;
 }
 
